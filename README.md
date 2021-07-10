@@ -7,7 +7,7 @@ An App which leverges the openweathermap API to deliver the most recent current 
 The interface of this app is pretty straightforward and self-explenatory.
 
 <p align="center">
- <img src="src/image/screen1.PNG" alt="ui_start"/>
+ <img height=200 src="src/image/screen1.PNG" alt="ui_start"/>
 </p>
 
 1) Enter your City
